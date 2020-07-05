@@ -1,2 +1,1 @@
-# P-re-Lachaise-Pyb
-Père Lachaise Pyb
+# Script de traitement des catégories du Père Lachaise sur Wikimedia Commons
